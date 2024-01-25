@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=8Sehyun&fontSize=85)
+<p align="center">
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=8Sehyun&fontSize=85">
+</p>
 
-# <center >제 GitHub 프로필에 오신 것을 환영합니다!
-<center>이곳에서 제 능력과 작업물, 관련 링크들을 둘러보세요.
+# <center >제 GitHub 프로필에 오신 것을 환영합니다!</center>
+<center>이곳에서 제 능력과 작업물, 관련 링크들을 둘러보세요.</center>
 <br>
 </br>
 
-#### <center>🔧 사용 가능한 프로그램 🔧
+#### <center>🔧 사용 가능한 프로그램 🔧 </center>
 
 <p align="center">
 <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
@@ -18,7 +20,7 @@
 <img src = "https://img.shields.io/badge/Notion-FAFAFA?style=for-the-badge&logo=Notion&logoColor=black">
 </p>  
 
-### <center>📚 공부 중인 언어 📚
+### <center>📚 공부 중인 언어 📚</center>
 
 <p align="center">
 <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
@@ -30,10 +32,12 @@
 
 <br>
 
-### <center>📃 가장 많이 사용한 언어 📃
+### <center>📃 가장 많이 사용한 언어 📃</center>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8Sehyun&layout=compact&theme=tokyonight)
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8Sehyun&layout=compact&theme=tokyonight">
+</p>
 <br>
 
 <br>
@@ -41,7 +45,9 @@
 ### <center>📈 깃허브 스탯 📈
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=8Sehyun&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=8Sehyun&show_icons=true&theme=tokyonight">
+</p>
 
 <br>
 
@@ -49,9 +55,12 @@
 
 <br>
 
-### <center>🏆 **수상 경력** 🏆
-<center>💡 제 2회 노페어 게임대회 : 금상
-<center>💡 제 3회 노페어 게임대회 : 금상
-<center>💡 2022 샌드박스 공모전 : 대상
+### <center>🏆 **수상 경력** 🏆</center>
+<br>
+<center>💡 제 2회 노페어 게임대회 : 금상</center><br>
+<center>💡 제 3회 노페어 게임대회 : 금상</center><br>
+<center>💡 2022 샌드박스 공모전 : 대상</center><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+<p align="center">
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
+</p>
