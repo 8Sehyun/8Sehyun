@@ -64,7 +64,7 @@
 
 ----------
 
-<br>
+</br>
 <div align=center>
 
 ### <center>🏆 **수상 경력** 🏆</center>
@@ -74,6 +74,18 @@
 <center>💡 2022 샌드박스 공모전 : 대상</center><br>
 </br>
 </div>
+
+<br>
+
+---------------------
+</br>
+
+<div align=center>
+
+### <center>📞 **CONTACT** 📞</center>
+<center>📧 : 8Sehyun@gmail.com</center>
+</div>
+
 
 
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
