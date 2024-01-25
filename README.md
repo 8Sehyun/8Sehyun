@@ -72,7 +72,8 @@
 <center>💡 제 2회 노페어 게임대회 : 금상</center><br>
 <center>💡 제 3회 노페어 게임대회 : 금상</center><br>
 <center>💡 2022 샌드박스 공모전 : 대상</center><br>
-
-<p align="center">
+</br>
 </div>
+
+
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
