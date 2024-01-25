@@ -2,12 +2,17 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=8Sehyun&fontSize=85">
 </p>
 
-# <center>제 GitHub 프로필에 오신 것을 환영합니다!</center>
-<center> 안녕하세요! 제  </center>
-<br>
-</br>
+<div align=center>
 
+# <center>제 GitHub 프로필에 오신 것을 환영합니다!</center>
+<center> 이 곳에서는 저에 대한 정보와 연락처 등을 둘러볼 수 있습니다.</center>
+<br>
+
+</br>
+ 
 #### <center>🔧 사용 가능한 프로그램 🔧</center>
+
+</div>
 
 <p align="center">
 <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
@@ -19,7 +24,6 @@
 <img src = "https://img.shields.io/badge/scratch-FE9A2E.svg?style=for-the-badge&logo=scratch&logoColor=white">
 <img src = "https://img.shields.io/badge/Notion-FAFAFA?style=for-the-badge&logo=Notion&logoColor=black">
 </p>  
-
 
 <div align="center">
 <center>📚 공부 중인 언어 📚</center>
@@ -66,4 +70,3 @@
 
 <p align="center">
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
-</p>
