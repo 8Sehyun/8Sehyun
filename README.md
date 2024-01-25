@@ -10,9 +10,10 @@
 
 </br>
  
-#### <center>🔧 사용 가능한 프로그램 🔧</center>
+### <center>🔧 사용 가능한 프로그램 🔧</center>
 
 </div>
+
 
 <p align="center">
 <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
@@ -24,21 +25,23 @@
 <img src = "https://img.shields.io/badge/scratch-FE9A2E.svg?style=for-the-badge&logo=scratch&logoColor=white">
 <img src = "https://img.shields.io/badge/Notion-FAFAFA?style=for-the-badge&logo=Notion&logoColor=black">
 </p>  
+
 <div align=center>
-<div align="center">
-<center>📚 공부 중인 언어 📚</center>
-</div>
+
+### <center>📚 공부 중인 언어 📚</center>
 
 <p align="center">
 <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src = "https://img.shields.io/badge/Lua-0404B4?style=for-the-badge&logo=Lua&logoColor=white">
 </p>
 <br>
-</div>>
+</div>
+
 ----------
 
 <br>
 <div align=center>
+
 ### <center>📃 가장 많이 사용한 언어 📃</center>
 <br>
 
@@ -47,9 +50,9 @@
 </p>
 </div>
 <br>
-
-<br>
+</br>
 <div align=center>
+
 ### <center>📈 깃허브 스탯 📈
 <br>
 
