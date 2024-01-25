@@ -2,7 +2,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=8Sehyun&fontSize=85">
 </p>
 
-# <center >제 GitHub 프로필에 오신 것을 환영합니다!</center>
+# <center> 제 GitHub 프로필에 오신 것을 환영합니다! </center>
 <center>이곳에서 제 능력과 작업물, 관련 링크들을 둘러보세요.</center>
 <br>
 </br>
