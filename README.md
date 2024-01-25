@@ -24,7 +24,7 @@
 <img src = "https://img.shields.io/badge/scratch-FE9A2E.svg?style=for-the-badge&logo=scratch&logoColor=white">
 <img src = "https://img.shields.io/badge/Notion-FAFAFA?style=for-the-badge&logo=Notion&logoColor=black">
 </p>  
-
+<div align=center>
 <div align="center">
 <center>📚 공부 중인 언어 📚</center>
 </div>
@@ -34,33 +34,35 @@
 <img src = "https://img.shields.io/badge/Lua-0404B4?style=for-the-badge&logo=Lua&logoColor=white">
 </p>
 <br>
-
+</div>>
 ----------
 
 <br>
-
+<div align=center>
 ### <center>📃 가장 많이 사용한 언어 📃</center>
 <br>
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=8Sehyun&layout=compact&theme=tokyonight">
 </p>
+</div>
 <br>
 
 <br>
-
+<div align=center>
 ### <center>📈 깃허브 스탯 📈
 <br>
 
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=8Sehyun&show_icons=true&theme=tokyonight">
 </p>
-
+</div>
 <br>
 
 ----------
 
 <br>
+<div align=center>
 
 ### <center>🏆 **수상 경력** 🏆</center>
 <br>
@@ -69,4 +71,5 @@
 <center>💡 2022 샌드박스 공모전 : 대상</center><br>
 
 <p align="center">
+</div>
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer">
