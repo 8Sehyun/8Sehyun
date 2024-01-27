@@ -5,7 +5,7 @@
 <div align=center>
 
 # <center>제 GitHub 프로필에 오신 것을 환영합니다!</center>
-<center> 이곳에서는 저에 대한 정보와 연락처 등을 둘러볼 수 있습니다.</center>
+<center> 이곳에서 저에 대한 정보를 둘러보세요.</center>
 <br>
 
 </br>
