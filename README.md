@@ -69,15 +69,10 @@
 
 ### <center>🏆 **수상 경력** 🏆</center>
 <br>
-### <center>교외 수상 내역</center>
 <center>💡 제 2회 노페어 게임대회 : 금상</center><br>
 <center>💡 제 3회 노페어 게임대회 : 금상</center><br>
 <center>💡 2022 샌드박스 공모전 : 우수상</center><br>
 </br>
-<br>
-</br>
-### <center>교내 수상 내역</center>
-<center>null</center>
 </div>
 
 <br>
